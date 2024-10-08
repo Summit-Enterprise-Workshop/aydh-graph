@@ -44,6 +44,7 @@ type Order @key(fields: "id") {
   The date the oder was made
   """
   orderDate: String
+
 }
 
 type User @key(fields: "id") {
