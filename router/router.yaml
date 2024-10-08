@@ -37,7 +37,7 @@ limits:
 preview_persisted_queries:
   enabled: true
   safelist:
-    enabled: trye
+    enabled: true
     require_id: false
 apq:
   enabled: false
